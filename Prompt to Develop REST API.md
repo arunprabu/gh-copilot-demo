@@ -41,3 +41,5 @@ Prompt in Agent Mode:
 after deleting product with specific id, i wish to get proper message in response body. fix it
 
 ====
+Prompt in Agent Mode: 
+ generate swagger documentation for the apis

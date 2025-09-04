@@ -1,6 +1,9 @@
+com/hexaware/labs/controller/ResourceNotFoundException.class
 com/hexaware/labs/model/Product.class
 com/hexaware/labs/service/ProductServiceImpl.class
+com/hexaware/labs/config/OpenApiConfig.class
 com/hexaware/labs/GhCopilotDemoApplication.class
 com/hexaware/labs/repo/ProductRepository.class
 com/hexaware/labs/controller/ProductController.class
 com/hexaware/labs/service/ProductService.class
+com/hexaware/labs/controller/GlobalExceptionHandler.class
